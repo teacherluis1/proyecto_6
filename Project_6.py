@@ -1,4 +1,4 @@
-menu=[{'id':11, 'nombre':'Arroz', 'precio':50},
+menu=[{'id':1, 'nombre':'Arroz', 'precio':50},
       {'id':2, 'nombre':'Habichuelas', 'precio':80},
       {'id':3, 'nombre':'Aceite', 'precio':300},
       {'id':4, 'nombre':'Pollo', 'precio':85},
