@@ -1,5 +1,5 @@
 
 
 
-hello=5-2
+hello="Hi my friends 2"
 print(hello)
